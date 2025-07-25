@@ -17,10 +17,10 @@ Fun facts: I like chess, running, and I have 2 cats.
 
 ### Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff)
